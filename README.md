@@ -6,7 +6,7 @@
 
 👯 Now I am learning Deep Learning in boostcamp AI-Tech 
 
-⚡ Skllis: Python/C/SQL/R
+⚡ Skllis: Python/ C/ SQL/ R
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
