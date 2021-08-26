@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ML / DL
 
-😄 I started programming at 42Seoul with C
+😄 I started programming at 42SEOUL with C
 
 👯 Now I am learning DL in boostcamp AI-Tech
 
