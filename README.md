@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ML/DL
+📫 How to reach me: chaechae1214@naver.com
+⚡ C/Python/SQL/R
+
 <!--
 **Amber-Chaeeunk/Amber-Chaeeunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
