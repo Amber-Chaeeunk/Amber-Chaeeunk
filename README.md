@@ -2,9 +2,9 @@
 
 🌱 I’m currently learning ML / DL
 
-😄 I started programming at 42SEOUL with C
+😄 I first started programming at 42SEOUL with C
 
-👯 Now I am learning DL in boostcamp AI-Tech
+👯 Now I am learning DL at boostcamp AI-Tech
 
 ⚡ Skills: Python / C / SQL / R
 
