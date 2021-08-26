@@ -2,9 +2,15 @@
 
 🌱 I’m currently learning ML/DL
 
-📫 How to reach me: chaechae1214@naver.com
+😄 I started programming at 42Seoul with C
 
-⚡ C/Python/SQL/R
+👯 Now I am learning Deep Learning in boostcamp AI-Tech 
+
+⚡ Skllis: Python/C/SQL/R
+
+🔭 Blog: https://amber-chaeeunk.tistory.com/
+
+📫 How to reach me: chaechae1214@naver.com
 
 <!--
 **Amber-Chaeeunk/Amber-Chaeeunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
