@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ML/DL
+🌱 I’m currently learning ML / DL
 
 😄 I started programming at 42Seoul with C
 
 👯 Now I am learning DL in boostcamp AI-Tech
 
-⚡ Skllis: Python / C / SQL / R
+⚡ Skills: Python / C / SQL / R
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
