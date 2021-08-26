@@ -4,9 +4,9 @@
 
 😄 I started programming at 42Seoul with C
 
-👯 Now I am learning Deep Learning in boostcamp AI-Tech 
+👯 Now I am learning DL in boostcamp AI-Tech
 
-⚡ Skllis: Python/ C/ SQL/ R
+⚡ Skllis: Python / C / SQL / R
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
