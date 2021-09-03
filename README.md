@@ -6,7 +6,7 @@
 
 👯 Now I am learning DL at boostcamp AI-Tech
 
-⚡ Skills: Python / C / SQL / R
+⚡ Skills: Python / Pytorch / C / SQL / R
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
