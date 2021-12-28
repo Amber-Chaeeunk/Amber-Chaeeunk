@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ML / DL
+🌱 I’m currently learning AI / DL
 
 😄 I first started programming at 42SEOUL with C
 
