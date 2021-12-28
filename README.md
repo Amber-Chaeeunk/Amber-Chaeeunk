@@ -6,7 +6,7 @@
 
 👯 Now I am learning DL at boostcamp AI-Tech
 
-⚡ Skills: Python / Pytorch / HuggingFace / Vuejs / C / SQL / R
+⚡ Skills: Python / Pytorch / HuggingFace / Vuejs / C / R
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
