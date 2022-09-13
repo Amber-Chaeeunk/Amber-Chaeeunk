@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning AI / DL
 
-😄 I studied at Boostcamp AI-Tech, 42SEOUL
+😄 I studied at Boostcamp AI-Tech, Cola Univ 42SEOUL
 
 ⚡ Skills: Python / Pytorch / HuggingFace / SQL / C / R
 
