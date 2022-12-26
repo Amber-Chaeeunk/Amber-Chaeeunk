@@ -2,8 +2,6 @@
 
 🌱 I’m currently learning AI / DL
 
-😄 I studied at Boostcamp AI-Tech, ColaUniv, 42SEOUL
-
 ⚡ Skills: Python / Pytorch / HuggingFace / SQL / C / R
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
