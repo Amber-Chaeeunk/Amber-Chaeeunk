@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning AI / DL
 
-⚡ Skills: Python / Pytorch / HuggingFace / SQL / C / R
+⚡ Skills: Python / Pytorch / HuggingFace / SQL / C
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
