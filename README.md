@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning AI / DL
-
-⚡ Skills: Python / Pytorch / HuggingFace / SQL / C
+🌱 Natural Language Processing
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
