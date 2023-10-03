@@ -1,6 +1,6 @@
 ### 안녕하세요 :) 👋
 
-⚡ Natural Language Processing
+⚡ Natural Language Processing / Generative Retrieval
 
 🔭 Blog: https://amber-chaeeunk.tistory.com/
 
